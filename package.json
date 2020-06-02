@@ -1,0 +1,15 @@
+{
+  "name": "es6-with",
+  "version": "1.0.0",
+  "description": "es6学习笔记",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhtzjz/es6-with-js.git"
+  },
+  "author": "zhaohuan1@360.cn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhtzjz/es6-with-js/issues"
+  },
+  "homepage": "https://github.com/zhtzjz/es6-with-js#readme"
+}
