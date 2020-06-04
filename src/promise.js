@@ -75,7 +75,7 @@ p6.then(r => console.log(r)).catch(e => `p6报错了${e}`)
 // promise内部的错误不会导致进程中断
 
 const p7 = new Promise(r => {
-  // r(y+1)
+  r(y+1)
 })
 
 p7.then(res => console.log(res))
