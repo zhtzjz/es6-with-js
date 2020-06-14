@@ -1,6 +1,6 @@
-# `Iterator` 迭代器
+# `Iterator` 迭代器
 
-## `Iterator`是什么
+## `Iterator`是什么
 
 >遍历器（`Iterator`）就是这样一种机制。它是一种接口，为各种不同的数据结构提供统一的访问机制。任何数据结构只要部署 `Iterator` 接口，就可以完成遍历操作（即依次处理该数据结构的所有成员）。转自[ECMAScript 6 入门](https://es6.ruanyifeng.com/#docs/iterator#`Iterator`%EF%BC%88%E9%81%8D%E5%8E%86%E5%99%A8%EF%BC%89%E7%9A%84%E6%A6%82%E5%BF%B5)
 
